@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Peça seu orçamento — Cama Hospitalar SP",
+    "description": "Solicite orçamento de aluguel ou venda de cama hospitalar, colchão, cadeira de rodas e equipamentos em São Paulo. Entrega e montagem no mesmo dia."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Peça seu orçamento",
+      "title": "Orçamento sem compromisso em três etapas.",
+      "lead": "Informe o equipamento e seus dados — a gente confirma o preço e o prazo de entrega.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Orçamento", "href": "/agendar" } ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três passos do pedido ao quarto montado.",
+      "steps": [
+        { "n": "01", "title": "Orçamento", "text": "Conte o que precisa pelo formulário ou WhatsApp." },
+        { "n": "02", "title": "Entrega", "text": "Levamos o equipamento higienizado no dia combinado." },
+        { "n": "03", "title": "Montagem", "text": "Instalamos no quarto e orientamos a família a usar." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Solicite agora",
+      "title": "Preencha e receba seu orçamento.",
+      "services": ["Aluguel de cama hospitalar", "Venda de cama hospitalar", "Colchão hospitalar e pneumático", "Cadeira de rodas", "Cadeira de banho", "Guincho de transferência", "Concentrador de oxigênio", "Andadores e muletas", "Suporte de soro e acessórios"]
+    }}
+  ]
+}

@@ -1,0 +1,140 @@
+[
+  {
+    "slug": "moema",
+    "nome": "Moema",
+    "prep": "em",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Nova Conceição",
+      "Campo Belo",
+      "Indianópolis",
+      "Ibirapuera"
+    ],
+    "referenciaLocal": "Atendemos toda a Moema, dos edifícios da Av. Ibirapuera às ruas próximas ao parque, com entrega e montagem no quarto em apartamentos e casas.",
+    "faq": [
+      {
+        "q": "Vocês entregam cama hospitalar no mesmo dia em Moema?",
+        "a": "Sim. Para alta hospitalar e emergência fazemos entrega no mesmo dia em Moema, com montagem inclusa no quarto."
+      },
+      {
+        "q": "A cama passa no elevador dos prédios de Moema?",
+        "a": "Passa. Entregamos a cama desmontada e montamos no apartamento, então ela entra no elevador sem problema."
+      }
+    ]
+  },
+  {
+    "slug": "tatuape",
+    "nome": "Tatuapé",
+    "prep": "no",
+    "regiao": "Zona Leste de São Paulo",
+    "bairrosVizinhos": [
+      "Anália Franco",
+      "Vila Formosa",
+      "Carrão",
+      "Água Rasa"
+    ],
+    "referenciaLocal": "Atendemos o Tatuapé e a região da Anália Franco, dos condomínios às casas, com entrega ágil e montagem da cama e dos acessórios no dia combinado.",
+    "faq": [
+      {
+        "q": "Atendem a região da Anália Franco e Carrão?",
+        "a": "Sim, atendemos o Tatuapé e os bairros vizinhos como Anália Franco, Carrão e Vila Formosa com entrega e montagem inclusas."
+      },
+      {
+        "q": "Posso alugar a cama por poucos dias no Tatuapé?",
+        "a": "Pode. O aluguel é flexível e sem fidelidade, então você paga só pelo período que precisar usar."
+      }
+    ]
+  },
+  {
+    "slug": "santana",
+    "nome": "Santana",
+    "prep": "em",
+    "regiao": "Zona Norte de São Paulo",
+    "bairrosVizinhos": [
+      "Carandiru",
+      "Vila Guilherme",
+      "Mandaqui",
+      "Jardim São Paulo"
+    ],
+    "referenciaLocal": "Levamos cama hospitalar e equipamentos de home care a Santana e a toda a Zona Norte, com entrega que atende desde os prédios da Cruzeiro do Sul às casas do Mandaqui.",
+    "faq": [
+      {
+        "q": "Vocês fazem entrega à noite em Santana?",
+        "a": "Fazemos. Em casos de alta tardia ou emergência, temos entrega 24h para Santana e região, combinada na hora do orçamento."
+      },
+      {
+        "q": "O colchão pneumático vem junto com a cama?",
+        "a": "Pode vir junto. Indicamos o colchão anti-escaras conforme o tempo de permanência na cama e instalamos junto com ela."
+      }
+    ]
+  },
+  {
+    "slug": "vila-mariana",
+    "nome": "Vila Mariana",
+    "prep": "na",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Paraíso",
+      "Saúde",
+      "Ipiranga",
+      "Aclimação"
+    ],
+    "referenciaLocal": "Atendemos a Vila Mariana e o entorno dos hospitais da região, com entrega rápida para quem recebe alta e precisa montar o quarto em casa no mesmo dia.",
+    "faq": [
+      {
+        "q": "Conseguem entregar logo após a alta na Vila Mariana?",
+        "a": "Sim. Como atendemos a região dos principais hospitais, costumamos entregar e montar no mesmo dia da alta na Vila Mariana."
+      },
+      {
+        "q": "Vocês orientam a família a usar a cama?",
+        "a": "Orientamos. Na montagem, ajustamos a altura, explicamos as manivelas ou o controle motorizado e tiramos as dúvidas da família."
+      }
+    ]
+  },
+  {
+    "slug": "morumbi",
+    "nome": "Morumbi",
+    "prep": "no",
+    "regiao": "Zona Oeste de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Sônia",
+      "Butantã",
+      "Real Parque",
+      "Panamby"
+    ],
+    "referenciaLocal": "Atendemos todo o Morumbi, dos condomínios da Giovanni Gronchi às casas da região, com entrega e montagem de cama, cadeira de rodas e demais equipamentos.",
+    "faq": [
+      {
+        "q": "Atendem condomínios e casas no Morumbi?",
+        "a": "Atendemos. Combinamos o horário com a portaria e montamos o equipamento direto no quarto, sem transtorno para o condomínio."
+      },
+      {
+        "q": "Dá para alugar cadeira de rodas junto com a cama?",
+        "a": "Dá. Montamos o kit de home care completo — cama, colchão, cadeira de rodas e acessórios — em uma única entrega."
+      }
+    ]
+  },
+  {
+    "slug": "pinheiros",
+    "nome": "Pinheiros",
+    "prep": "em",
+    "regiao": "Zona Oeste de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Madalena",
+      "Itaim Bibi",
+      "Jardim Paulistano",
+      "Alto de Pinheiros"
+    ],
+    "referenciaLocal": "Atendemos Pinheiros e a Vila Madalena, dos apartamentos às casas, com entrega e montagem de cama hospitalar e equipamentos para o cuidado em casa.",
+    "faq": [
+      {
+        "q": "Vocês buscam o equipamento quando o uso termina em Pinheiros?",
+        "a": "Buscamos. A retirada é agendada no dia que você combinar, sem custo extra dentro do período de locação."
+      },
+      {
+        "q": "Tem cama motorizada disponível em Pinheiros?",
+        "a": "Tem. Trabalhamos com cama manual e motorizada; indicamos a melhor conforme o peso e a rotina de cuidado do paciente."
+      }
+    ]
+  }
+]

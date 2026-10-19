@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Equipamentos de home care — Cama Hospitalar SP",
+    "description": "Aluguel e venda de cama hospitalar, colchão pneumático, cadeira de rodas, cadeira de banho, guincho, concentrador de oxigênio e acessórios em São Paulo. Veja todos os equipamentos."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossos equipamentos",
+      "title": "Tudo para montar o cuidado em casa.",
+      "lead": "Da cama hospitalar à cadeira de banho, do colchão anti-escaras ao oxigênio — entregamos, montamos e damos suporte.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Equipamentos", "href": "/servicos" } ]
+    }},
+    { "type": "servicos", "props": {
+      "fromData": true,
+      "cta": { "label": "Solicitar orçamento", "href": "/agendar" }
+    }},
+    { "type": "porqueEscolher", "props": {
+      "eyebrow": "Por que alugar com a gente",
+      "title": "Entrega rápida e equipamento higienizado.",
+      "image": "/images/why.jpg",
+      "features": [
+        { "title": "Equipe de entrega própria", "text": "Montamos o equipamento direto no quarto." },
+        { "title": "Higienização garantida", "text": "Tudo limpo e conferido a cada locação." },
+        { "title": "Aluguel sem fidelidade", "text": "Você paga só pelo tempo que precisar." },
+        { "title": "Atendimento todos os dias", "text": "Entrega 24h para alta e emergência em SP." },
+        { "title": "Famílias satisfeitas", "text": "Milhares de locações entregues na cidade." },
+        { "title": "Suporte durante o uso", "text": "Troca e manutenção inclusas na locação." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Peça seu orçamento sem compromisso.",
+      "services": ["Aluguel de cama hospitalar", "Venda de cama hospitalar", "Colchão hospitalar e pneumático", "Cadeira de rodas", "Cadeira de banho", "Guincho de transferência", "Concentrador de oxigênio", "Andadores e muletas", "Suporte de soro e acessórios"]
+    }}
+  ]
+}

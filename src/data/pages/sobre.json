@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Sobre — Cama Hospitalar SP",
+    "description": "Mais de 10 anos equipando o home care em São Paulo: aluguel e venda de cama hospitalar e equipamentos, com entrega, montagem e suporte para a família."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Sobre a empresa",
+      "title": "Equipamento certo para cuidar em casa com segurança.",
+      "lead": "Mais de uma década atendendo famílias e cuidadores em toda a cidade de São Paulo.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Sobre", "href": "/sobre" } ]
+    }},
+    { "type": "sobre", "props": {
+      "image": "/images/about.jpg",
+      "badge": "10+ anos de home care",
+      "title": "Equipamento certo para cuidar em casa com segurança.",
+      "lead": "Atendemos desde a alta hospitalar até o cuidado de longa duração, sempre com equipamento higienizado e montagem inclusa.",
+      "benefits": [
+        "Aluguel flexível, sem fidelidade obrigatória",
+        "Cama, colchão, cadeira de rodas e acessórios",
+        "Equipamento higienizado a cada locação",
+        "Entrega e montagem no mesmo dia em SP"
+      ],
+      "cta": { "label": "Solicitar orçamento", "href": "#contato" }
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "10+", "label": "Anos de home care" },
+        { "value": "5mil+", "label": "Locações entregues" },
+        { "value": "24h", "label": "Entrega em emergência" },
+        { "value": "98%", "label": "Famílias satisfeitas" }
+      ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três passos do pedido ao quarto montado.",
+      "steps": [
+        { "n": "01", "title": "Orçamento", "text": "Conte o que precisa pelo formulário ou WhatsApp." },
+        { "n": "02", "title": "Entrega", "text": "Levamos o equipamento higienizado no dia combinado." },
+        { "n": "03", "title": "Montagem", "text": "Instalamos no quarto e orientamos a família a usar." }
+      ]
+    }},
+    { "type": "depoimentos", "props": {
+      "eyebrow": "Depoimentos",
+      "title": "O que as famílias dizem.",
+      "rating": { "score": "4,9", "label": "média de satisfação" },
+      "items": [
+        { "quote": "Recebemos a cama no dia da alta e montaram tudo no quarto. Salvou a família.", "name": "Patrícia M.", "role": "Cliente — Tatuapé" },
+        { "quote": "O colchão pneumático fez diferença nas feridas do meu pai. Suporte ótimo.", "name": "Cláudia R.", "role": "Cliente — Vila Mariana" },
+        { "quote": "Aluguel sem fidelidade e retirada agendada. Pagamos só o que usamos.", "name": "André S.", "role": "Cliente — Santana" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Peça seu orçamento sem compromisso.",
+      "services": ["Aluguel de cama hospitalar", "Venda de cama hospitalar", "Colchão hospitalar e pneumático", "Cadeira de rodas", "Cadeira de banho", "Guincho de transferência", "Concentrador de oxigênio", "Andadores e muletas", "Suporte de soro e acessórios"]
+    }}
+  ]
+}

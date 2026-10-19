@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Cama hospitalar",
+    "slug": "cama-hospitalar"
+  },
+  {
+    "name": "Equipamentos",
+    "slug": "equipamentos"
+  },
+  {
+    "name": "Cuidados em casa",
+    "slug": "cuidados-em-casa"
+  },
+  {
+    "name": "Mobilidade",
+    "slug": "mobilidade"
+  },
+  {
+    "name": "Dicas para a família",
+    "slug": "dicas-para-a-familia"
+  }
+]

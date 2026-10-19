@@ -1,0 +1,290 @@
+[
+  {
+    "slug": "aluguel-de-cama-hospitalar",
+    "nome": "Aluguel de cama hospitalar",
+    "resumo": "Cama hospitalar manual ou motorizada para alugar, com entrega e montagem em casa.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Quando alugar uma cama hospitalar",
+        "conteudo": "O aluguel é a opção mais usada quando o cuidado em casa tem prazo incerto, como na recuperação de uma cirurgia ou no pós-alta hospitalar.\n\nEm vez de comprar um equipamento caro que pode ser usado por poucas semanas, você paga só pelo tempo de uso e devolve quando o cuidado termina."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Cama manual ou motorizada",
+        "conteudo": "A cama manual usa manivelas para subir a cabeceira, os pés e a altura, e costuma ser indicada para pacientes mais leves e cuidadores com boa mobilidade.\n\nA cama motorizada faz os mesmos movimentos com um controle elétrico, o que poupa esforço do cuidador e ajuda quando o paciente é mais pesado ou precisa mudar de posição muitas vezes ao dia.\n\n- Manual: mais econômica, depende de força para acionar\n- Motorizada: controle elétrico, ideal para uso intenso"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "O que vem incluído na locação",
+        "conteudo": "A cama é entregue higienizada, com grades de proteção laterais e ajuste de altura e de cabeceira já funcionando.\n\nPode acompanhar colchão hospitalar, suporte de soro e trapézio para o paciente se apoiar, conforme o que for combinado no orçamento."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Entrega, montagem e retirada",
+        "conteudo": "Levamos a cama desmontada e montamos no quarto, ajustando a altura e ensinando a família a usar as manivelas ou o controle.\n\nQuando o cuidado termina, a retirada é agendada no dia que você combinar, sem custo extra dentro do período de aluguel."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Preço e prazo do aluguel",
+        "conteudo": "O valor depende do modelo escolhido e do tempo de locação, com mensalidades menores para períodos mais longos.\n\nNão exigimos fidelidade: você renova mês a mês enquanto precisar e avisa quando quiser encerrar."
+      }
+    ]
+  },
+  {
+    "slug": "venda-de-cama-hospitalar",
+    "nome": "Venda de cama hospitalar",
+    "resumo": "Cama hospitalar nova para comprar, indicada para cuidado de longa duração em casa.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Quando vale a pena comprar",
+        "conteudo": "A compra costuma compensar quando o cuidado em casa é de longa duração ou permanente, como em doenças crônicas e cuidados com idosos acamados.\n\nA partir de alguns meses de uso contínuo, o investimento na cama própria costuma sair mais barato do que renovar o aluguel várias vezes."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Modelos disponíveis para venda",
+        "conteudo": "Trabalhamos com camas manuais de duas e três manivelas e com camas motorizadas, todas com grades de proteção e rodízios com freio.\n\nIndicamos o modelo conforme o peso do paciente, a frequência de mudança de posição e o esforço que o cuidador consegue fazer no dia a dia."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "O que observar antes de comprar",
+        "conteudo": "Vale conferir a capacidade de carga, o tipo de estrado, a facilidade de limpeza e se a altura sobe o suficiente para o cuidador trabalhar sem forçar a coluna.\n\nO espaço do quarto também importa: medimos o vão da porta e a área ao redor da cama para garantir que o equipamento circula bem."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Acessórios que acompanham a cama",
+        "conteudo": "A cama pode sair com colchão hospitalar, colchão pneumático anti-escaras, suporte de soro e trapézio, montando um kit completo para o cuidado.\n\nReunir tudo na compra evita ter que procurar cada item depois, quando o paciente já estiver instalado em casa."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Garantia e entrega",
+        "conteudo": "As camas vendidas têm garantia de fábrica e nós montamos no quarto, ajustando a altura e explicando o funcionamento.\n\nApós a venda, seguimos disponíveis para dúvidas de manutenção e para repor peças quando necessário."
+      }
+    ]
+  },
+  {
+    "slug": "colchao-hospitalar",
+    "nome": "Colchão hospitalar e pneumático",
+    "resumo": "Colchão hospitalar e colchão pneumático anti-escaras para quem passa mais tempo na cama.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Para que serve o colchão hospitalar",
+        "conteudo": "O colchão hospitalar é mais firme e fácil de higienizar do que o colchão comum, e acompanha o tamanho do estrado da cama hospitalar.\n\nEle dá a base certa para a cama articular sem deformar e ajuda a manter o paciente seco e confortável."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Colchão pneumático e prevenção de escaras",
+        "conteudo": "O colchão pneumático, ou caixa de ovo inflável, tem células de ar que inflam e desinflam em ciclos, mudando os pontos de pressão sobre o corpo.\n\nEssa alternância evita que o peso fique sempre na mesma região e reduz o risco de feridas de pressão em quem fica muito tempo deitado."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Quando o anti-escaras é indicado",
+        "conteudo": "O colchão pneumático é indicado para pacientes acamados, com pouca mobilidade ou que já têm tendência a feridas de pressão.\n\nPara quem ainda se movimenta sozinho na cama, muitas vezes o colchão hospitalar comum já é suficiente — ajudamos a decidir conforme o caso."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Como funciona o compressor",
+        "conteudo": "O colchão pneumático vem com um pequeno compressor que fica preso na cama e mantém o ar circulando entre as células.\n\nEle é silencioso, consome pouca energia e permite regular a firmeza conforme o peso do paciente."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Aluguel e higienização",
+        "conteudo": "Você pode alugar o colchão junto com a cama ou separado, e ele chega higienizado e pronto para uso.\n\nA capa é impermeável e fácil de limpar, o que mantém a higiene mesmo no uso diário."
+      }
+    ]
+  },
+  {
+    "slug": "cadeira-de-rodas",
+    "nome": "Cadeira de rodas",
+    "resumo": "Cadeira de rodas para aluguel ou venda, para transporte, consultas e passeios.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Tipos de cadeira de rodas",
+        "conteudo": "A cadeira de rodas manual é movida pelo próprio paciente ou empurrada por um acompanhante, e atende a maior parte das necessidades de transporte.\n\nExistem ainda modelos reclináveis, para banho e motorizados, indicados conforme a autonomia do paciente e o tempo que ele passa sentado.\n\n- Manual padrão: leve e dobrável\n- Reclinável: para quem precisa mudar de posição\n- Motorizada: mais autonomia para o paciente"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Como escolher o tamanho certo",
+        "conteudo": "A largura do assento deve acomodar o quadril sem apertar, e a altura precisa deixar os pés bem apoiados nos descansos.\n\nUma cadeira do tamanho errado cansa e pode machucar, então conferimos o peso e as medidas do paciente antes de indicar o modelo."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Uso em casa e na rua",
+        "conteudo": "Para dentro de casa, vale uma cadeira mais estreita, que passa nas portas e faz curvas em corredores apertados.\n\nPara passeios e consultas, modelos dobráveis cabem no porta-malas e facilitam o transporte no carro da família."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Conforto e segurança",
+        "conteudo": "Almofadas de assento ajudam quem fica muitas horas sentado e reduzem o risco de feridas de pressão.\n\nOs freios, os cintos e os descansos de pé precisam estar firmes, e nós conferimos tudo isso antes de entregar a cadeira."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Alugar ou comprar a cadeira",
+        "conteudo": "Para uso temporário, como uma recuperação, o aluguel resolve sem grande gasto.\n\nPara uso contínuo, a compra costuma compensar, e ajudamos a escolher um modelo que dure e seja fácil de manter."
+      }
+    ]
+  },
+  {
+    "slug": "cadeira-de-banho",
+    "nome": "Cadeira de banho",
+    "resumo": "Cadeira de banho para dar mais segurança e autonomia na hora do banho.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Para que serve a cadeira de banho",
+        "conteudo": "A cadeira de banho permite que o paciente tome banho sentado, com segurança, sem precisar ficar em pé no piso molhado.\n\nÉ um dos itens que mais reduz o risco de queda em casa, já que o banheiro costuma ser o cômodo mais escorregadio."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Modelos com rodas e fixos",
+        "conteudo": "A cadeira fixa é mais simples e fica parada no box, indicada para banheiros pequenos.\n\nA cadeira com rodas funciona como um vaso sanitário móvel e permite levar o paciente do quarto ao banheiro já sentado, o que ajuda quem tem pouca mobilidade.\n\n- Fixa: leve e econômica\n- Com rodas: transporta o paciente até o banho"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Segurança no banheiro",
+        "conteudo": "As pernas têm ponteiras antiderrapantes e o assento é vazado, com aberturas para a higiene íntima.\n\nMesmo com a cadeira, vale instalar barras de apoio e um tapete antiderrapante para deixar o banho ainda mais seguro."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Higiene e manutenção",
+        "conteudo": "A cadeira é feita de material que não enferruja e seca rápido, o que facilita a limpeza depois de cada uso.\n\nEntregamos a cadeira higienizada e ela é simples de manter limpa no dia a dia."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Aluguel da cadeira de banho",
+        "conteudo": "Por ser um item de baixo custo, a cadeira de banho costuma ser alugada junto com a cama e os demais equipamentos.\n\nAssim a família monta o ambiente de cuidado completo em uma única entrega."
+      }
+    ]
+  },
+  {
+    "slug": "guincho-de-transferencia",
+    "nome": "Guincho de transferência",
+    "resumo": "Guincho ou elevador de paciente para mover quem não consegue sair da cama sozinho.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "O que é o guincho de transferência",
+        "conteudo": "O guincho de transferência, também chamado de elevador de paciente, é um equipamento que ergue a pessoa da cama com a ajuda de uma cinta acoplada.\n\nEle permite mover o paciente para a cadeira de rodas, o banho ou o sofá sem que o cuidador precise levantar todo o peso."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Quando ele é necessário",
+        "conteudo": "O guincho é indicado quando o paciente não consegue ficar em pé nem ajudar na transferência, e quando o cuidador sozinho não dá conta do peso.\n\nAlém de proteger o paciente de quedas, ele evita lesões na coluna de quem cuida todos os dias."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Como funciona a cinta",
+        "conteudo": "A cinta, ou sling, passa por baixo das costas e das pernas do paciente e se prende aos ganchos do guincho.\n\nO movimento de subida é feito por um pistão hidráulico ou elétrico, suave e controlado, e a pessoa fica apoiada com segurança durante toda a transferência."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Espaço e uso em casa",
+        "conteudo": "O guincho tem rodízios e passa por baixo da cama e da cadeira, mas precisa de um vão livre ao redor para manobrar.\n\nNa entrega, conferimos o espaço do quarto e ensinamos o cuidador a posicionar a cinta e a operar o equipamento com calma."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Aluguel do elevador de paciente",
+        "conteudo": "Por ser um equipamento maior, o guincho costuma ser alugado pelo tempo em que o paciente fica totalmente dependente.\n\nFazemos a entrega, a montagem e a orientação de uso, e retiramos quando não for mais necessário."
+      }
+    ]
+  },
+  {
+    "slug": "concentrador-de-oxigenio",
+    "nome": "Concentrador de oxigênio",
+    "resumo": "Concentrador de oxigênio para alugar, com fornecimento contínuo sem trocar cilindro.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Como funciona o concentrador",
+        "conteudo": "O concentrador de oxigênio é um aparelho elétrico que capta o ar do ambiente e separa o oxigênio, entregando-o concentrado para o paciente.\n\nDiferente do cilindro, ele não acaba: enquanto estiver ligado na tomada, fornece oxigênio de forma contínua."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Vantagens sobre o cilindro",
+        "conteudo": "Com o concentrador, a família não precisa controlar o nível do gás nem agendar recargas a cada poucos dias.\n\nIsso traz tranquilidade no uso prolongado e reduz o custo a longo prazo, já que o aparelho funciona com energia elétrica."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Fluxo e indicação médica",
+        "conteudo": "O fluxo de oxigênio, medido em litros por minuto, é definido pelo médico conforme a necessidade do paciente.\n\nTrabalhamos com concentradores de diferentes capacidades e ajudamos a escolher o modelo que atende ao fluxo indicado na receita."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Segurança no uso em casa",
+        "conteudo": "O aparelho deve ficar em local ventilado, longe de chamas e cigarros, já que o oxigênio favorece o fogo.\n\nNa entrega, explicamos os cuidados, a limpeza do filtro e o que fazer em caso de falta de energia."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Aluguel do concentrador",
+        "conteudo": "O aluguel é a forma mais comum de uso, porque o equipamento é caro para comprar e a necessidade costuma ter prazo definido.\n\nEntregamos higienizado, com a cânula e os acessórios, e damos suporte durante todo o período."
+      }
+    ]
+  },
+  {
+    "slug": "andadores-e-muletas",
+    "nome": "Andadores e muletas",
+    "resumo": "Andadores, muletas e bengalas para apoio na recuperação e na locomoção.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Quando usar andador, muleta ou bengala",
+        "conteudo": "A bengala dá um apoio leve para quem tem boa estabilidade, enquanto a muleta divide mais o peso e ajuda a poupar uma das pernas.\n\nO andador oferece o maior apoio e é indicado para quem tem equilíbrio reduzido ou está reaprendendo a andar depois de uma cirurgia.\n\n- Bengala: apoio leve\n- Muletas: poupam uma perna\n- Andador: máximo de estabilidade"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Tipos de andador",
+        "conteudo": "O andador fixo é o mais estável e exige levantar o equipamento a cada passo, indicado para quem precisa de mais segurança.\n\nO andador articulado e o com rodas facilitam o caminhar contínuo, úteis para quem já tem mais firmeza e quer mais agilidade."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Ajuste de altura correto",
+        "conteudo": "A altura do andador e das muletas deve deixar o cotovelo levemente flexionado, com os ombros relaxados.\n\nUm ajuste errado força os punhos e a coluna, então regulamos a altura conforme o paciente na hora da entrega."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Segurança no apoio",
+        "conteudo": "As ponteiras de borracha precisam estar inteiras para não escorregar, e os punhos devem ter boa aderência.\n\nConferimos esses detalhes antes de entregar, porque é o que garante o apoio firme no dia a dia."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Aluguel para a recuperação",
+        "conteudo": "Como o uso costuma durar só o tempo da recuperação, o aluguel é a opção mais econômica.\n\nVocê devolve quando recuperar a mobilidade, sem ficar com um equipamento parado em casa."
+      }
+    ]
+  },
+  {
+    "slug": "suporte-de-soro-e-acessorios",
+    "nome": "Suporte de soro e acessórios",
+    "resumo": "Suporte de soro, grades, trapézio e acessórios que completam o cuidado em casa.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Suporte de soro para uso doméstico",
+        "conteudo": "O suporte de soro segura as bolsas de medicação e hidratação na altura certa, com hastes reguláveis e base com rodízios.\n\nÉ um item simples, mas essencial quando o paciente faz medicação endovenosa ou usa sonda em casa."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Trapézio e barras de apoio",
+        "conteudo": "O trapézio se prende à cama e dá um ponto de apoio para o paciente se erguer e mudar de posição com mais autonomia.\n\nBarras de apoio fixadas na parede ajudam nas transferências e no uso do banheiro, reduzindo o risco de queda."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Grades de proteção e almofadas",
+        "conteudo": "As grades laterais evitam que o paciente role para fora da cama durante o sono ou em momentos de agitação.\n\nAlmofadas de posicionamento ajudam a apoiar costas, pernas e calcanhares, prevenindo feridas de pressão."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Itens de higiene e conforto",
+        "conteudo": "Comadres, papagaios e adaptadores para o vaso sanitário facilitam a higiene de quem tem mobilidade reduzida.\n\nSão acessórios de baixo custo que fazem diferença grande na rotina do cuidado em casa."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Montando o kit completo",
+        "conteudo": "Reunimos esses acessórios junto com a cama, o colchão e a cadeira para a família receber tudo em uma só entrega.\n\nAssim o quarto fica pronto para o cuidado desde o primeiro dia, sem precisar correr atrás de cada item depois."
+      }
+    ]
+  }
+]

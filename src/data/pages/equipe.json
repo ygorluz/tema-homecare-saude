@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Nossa equipe — Cama Hospitalar SP",
+    "description": "Equipe de atendimento, higienização, entrega e suporte que prepara e monta cama hospitalar e equipamentos de home care em São Paulo."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossa equipe",
+      "title": "Gente que cuida de cada entrega.",
+      "lead": "Profissionais que preparam, transportam e montam o equipamento e orientam a família a usar.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Equipe", "href": "/equipe" } ]
+    }},
+    { "type": "equipe", "props": {
+      "members": [
+        { "name": "Carla Mendes", "role": "Atendimento e orçamento", "photo": "/images/team-1.jpg" },
+        { "name": "Rafael Souza", "role": "Higienização e preparo", "photo": "/images/team-2.jpg" },
+        { "name": "Lucas Ferreira", "role": "Entrega e montagem", "photo": "/images/team-3.jpg" },
+        { "name": "André Lima", "role": "Suporte e manutenção", "photo": "/images/team-4.jpg" }
+      ]
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "10+", "label": "Anos de home care" },
+        { "value": "5mil+", "label": "Locações entregues" },
+        { "value": "24h", "label": "Entrega em emergência" },
+        { "value": "98%", "label": "Famílias satisfeitas" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Peça seu orçamento sem compromisso.",
+      "services": ["Aluguel de cama hospitalar", "Venda de cama hospitalar", "Colchão hospitalar e pneumático", "Cadeira de rodas", "Cadeira de banho", "Guincho de transferência", "Concentrador de oxigênio", "Andadores e muletas", "Suporte de soro e acessórios"]
+    }}
+  ]
+}

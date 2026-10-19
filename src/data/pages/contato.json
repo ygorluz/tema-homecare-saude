@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Contato — Cama Hospitalar SP",
+    "description": "Fale com a Cama Hospitalar SP: WhatsApp, e-mail e atendimento em São Paulo. Tire dúvidas ou solicite orçamento de aluguel de cama hospitalar e equipamentos."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Estamos prontos para atender você.",
+      "lead": "Mande mensagem, ligue ou peça pelo formulário — orçamento rápido e entrega no mesmo dia em São Paulo.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Contato", "href": "/contato" } ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Envie uma mensagem",
+      "title": "Conte o que você precisa para o cuidado em casa.",
+      "services": ["Aluguel de cama hospitalar", "Venda de cama hospitalar", "Colchão hospitalar e pneumático", "Cadeira de rodas", "Cadeira de banho", "Guincho de transferência", "Concentrador de oxigênio", "Andadores e muletas", "Suporte de soro e acessórios"]
+    }}
+  ]
+}

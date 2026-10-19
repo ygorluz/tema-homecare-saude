@@ -1,0 +1,276 @@
+{
+  "blocks": [
+    {
+      "type": "hero",
+      "props": {
+        "eyebrow": "Cama hospitalar em São Paulo",
+        "title": "Aluguel e venda de cama hospitalar, com entrega no mesmo dia.",
+        "lead": "Cama motorizada e manual, colchão pneumático, cadeira de rodas e equipamentos para home care, entregues e montados na sua casa em São Paulo. Orçamento sem compromisso.",
+        "cta": {
+          "label": "Solicitar orçamento",
+          "href": "#contato"
+        },
+        "rating": {
+          "score": "5,0",
+          "count": "320+ famílias atendidas"
+        },
+        "doctor": {
+          "name": "Equipe de entrega própria",
+          "role": "Montagem e suporte",
+          "photo": "/images/doctor.jpg"
+        },
+        "contact": {
+          "phone": "(11) 0000-0000",
+          "hours": "Todos os dias, 8h às 20h • Entrega 24h"
+        }
+      }
+    },
+    {
+      "type": "sobre",
+      "props": {
+        "image": "/images/about.jpg",
+        "badge": "+10 anos equipando o home care em São Paulo",
+        "eyebrow": "Sobre a empresa",
+        "title": "Equipamento higienizado e pronto para o cuidado em casa.",
+        "lead": "Cuidamos de cada etapa: indicamos o equipamento certo, entregamos higienizado, montamos no quarto e ensinamos a família a usar com segurança.",
+        "benefits": [
+          "Aluguel flexível, sem fidelidade obrigatória",
+          "Entrega e montagem no mesmo dia em São Paulo",
+          "Equipamento higienizado e conferido a cada locação",
+          "Suporte para troca e manutenção durante o uso"
+        ],
+        "cta": {
+          "label": "Conheça a empresa",
+          "href": "/sobre"
+        }
+      }
+    },
+    {
+      "type": "servicos",
+      "props": {
+        "eyebrow": "Nossos equipamentos",
+        "title": "Tudo para montar o home care em casa.",
+        "items": [
+          {
+            "title": "Aluguel de cama hospitalar",
+            "text": "Cama motorizada ou manual, entregue e montada no quarto."
+          },
+          {
+            "title": "Colchão hospitalar e pneumático",
+            "text": "Colchão anti-escaras para quem fica mais tempo na cama."
+          },
+          {
+            "title": "Cadeira de rodas",
+            "text": "Cadeira de rodas para transporte e passeio, sob medida."
+          },
+          {
+            "title": "Concentrador de oxigênio",
+            "text": "Oxigênio em casa, sem depender de cilindro recarregado."
+          }
+        ],
+        "cta": {
+          "label": "Ver todos os equipamentos",
+          "href": "/servicos"
+        }
+      }
+    },
+    {
+      "type": "numeros",
+      "props": {
+        "stats": [
+          {
+            "value": "10+",
+            "label": "Anos de home care"
+          },
+          {
+            "value": "5mil+",
+            "label": "Locações entregues"
+          },
+          {
+            "value": "24h",
+            "label": "Entrega em emergência"
+          },
+          {
+            "value": "98%",
+            "label": "Famílias satisfeitas"
+          }
+        ]
+      }
+    },
+    {
+      "type": "porqueEscolher",
+      "props": {
+        "eyebrow": "Por que alugar com a gente",
+        "title": "Cuidar em casa fica mais simples com o equipamento certo.",
+        "image": "/images/why.jpg",
+        "features": [
+          {
+            "title": "Entrega no mesmo dia",
+            "text": "Atendemos alta hospitalar e emergência em São Paulo."
+          },
+          {
+            "title": "Higienização garantida",
+            "text": "Cada equipamento é limpo e conferido antes de sair."
+          },
+          {
+            "title": "Aluguel sem fidelidade",
+            "text": "Você paga só pelo tempo que precisar usar."
+          },
+          {
+            "title": "Montagem inclusa",
+            "text": "Instalamos no quarto e ajustamos a altura da cama."
+          },
+          {
+            "title": "Suporte durante o uso",
+            "text": "Troca e manutenção sem custo extra na locação."
+          },
+          {
+            "title": "Retirada agendada",
+            "text": "Quando o cuidado termina, buscamos no dia combinado."
+          }
+        ]
+      }
+    },
+    {
+      "type": "comoFunciona",
+      "props": {
+        "eyebrow": "Como funciona",
+        "title": "Três passos do pedido até o quarto montado.",
+        "steps": [
+          {
+            "n": "01",
+            "title": "Orçamento",
+            "text": "Conte o que precisa pelo WhatsApp e a previsão de uso."
+          },
+          {
+            "n": "02",
+            "title": "Entrega",
+            "text": "Levamos o equipamento higienizado no dia combinado."
+          },
+          {
+            "n": "03",
+            "title": "Montagem",
+            "text": "Instalamos no quarto e orientamos a família a usar."
+          }
+        ]
+      }
+    },
+    {
+      "type": "equipe",
+      "props": {
+        "eyebrow": "Nossa equipe",
+        "title": "Gente que cuida de cada entrega.",
+        "members": [
+          {
+            "name": "Atendimento",
+            "role": "Orçamento e indicação",
+            "photo": "/images/team-1.jpg"
+          },
+          {
+            "name": "Higienização",
+            "role": "Preparo do equipamento",
+            "photo": "/images/team-2.jpg"
+          },
+          {
+            "name": "Entrega e montagem",
+            "role": "Instalação no quarto",
+            "photo": "/images/team-3.jpg"
+          },
+          {
+            "name": "Suporte",
+            "role": "Troca e manutenção",
+            "photo": "/images/team-4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "depoimentos",
+      "props": {
+        "eyebrow": "Depoimentos",
+        "title": "O que as famílias dizem.",
+        "rating": {
+          "score": "4,9",
+          "label": "média de avaliações"
+        },
+        "items": [
+          {
+            "quote": "Recebemos a cama no dia da alta e montaram tudo no quarto. Salvou a família.",
+            "name": "Patrícia M.",
+            "role": "Tatuapé"
+          },
+          {
+            "quote": "O colchão pneumático fez diferença nas feridas do meu pai. Suporte ótimo.",
+            "name": "Cláudia R.",
+            "role": "Vila Mariana"
+          },
+          {
+            "quote": "Aluguel sem fidelidade e retirada agendada. Pagamos só o que usamos.",
+            "name": "André S.",
+            "role": "Santana"
+          }
+        ]
+      }
+    },
+    {
+      "type": "antesDepois",
+      "props": {
+        "eyebrow": "No quarto do cliente",
+        "title": "Antes e depois da montagem.",
+        "items": [
+          {
+            "label": "Cama hospitalar montada",
+            "before": "/images/before-1.jpg",
+            "after": "/images/after-1.jpg"
+          },
+          {
+            "label": "Quarto adaptado para home care",
+            "before": "/images/before-2.jpg",
+            "after": "/images/after-2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "novidades",
+      "props": {
+        "eyebrow": "Novidades",
+        "title": "Dicas para cuidar em casa.",
+        "items": [
+          {
+            "title": "Cama motorizada ou manual: qual escolher",
+            "excerpt": "Como decidir pelo peso e pela rotina de cuidado.",
+            "image": "/images/post-1.jpg",
+            "href": "#"
+          },
+          {
+            "title": "Colchão pneumático previne escaras?",
+            "excerpt": "Quando o anti-escaras é indicado e como funciona.",
+            "image": "/images/post-2.jpg",
+            "href": "#"
+          },
+          {
+            "title": "Como preparar o quarto para a alta",
+            "excerpt": "Espaço, tomada e segurança antes do equipamento chegar.",
+            "image": "/images/post-3.jpg",
+            "href": "#"
+          }
+        ]
+      }
+    },
+    {
+      "type": "ctaContato",
+      "props": {
+        "eyebrow": "Fale com a gente",
+        "title": "Peça seu orçamento de cama hospitalar sem compromisso.",
+        "services": [
+          "Aluguel de cama hospitalar",
+          "Venda de cama hospitalar",
+          "Colchão hospitalar e pneumático",
+          "Cadeira de rodas",
+          "Concentrador de oxigênio"
+        ]
+      }
+    }
+  ]
+}

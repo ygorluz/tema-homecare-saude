@@ -1,0 +1,25 @@
+{
+  "name": "Cama Hospitalar SP",
+  "segmento": "Cama hospitalar",
+  "schemaType": "LocalBusiness",
+  "postUrlPrefix": "",
+  "description": "Aluguel e venda de cama hospitalar em São Paulo: cama motorizada e manual, colchão pneumático, cadeira de rodas, cadeira de banho e equipamentos para home care. Entrega e instalação no mesmo dia. Peça seu orçamento.",
+  "ctaLabel": "Solicitar orçamento",
+  "phone": "(11) 0000-0000",
+  "whatsapp": "5511000000000",
+  "email": "contato@camahospitalarsp.com.br",
+  "address": "São Paulo — SP",
+  "hours": "Todos os dias, 8h às 20h • Entrega 24h",
+  "social": { "instagram": "#", "facebook": "#", "youtube": "#" },
+  "nap": {
+    "streetAddress": "Rua Exemplo, 000 — conj. 00",
+    "addressLocality": "São Paulo",
+    "addressRegion": "SP",
+    "postalCode": "00000-000",
+    "country": "BR",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "priceRange": "$$",
+    "mapEmbed": "https://www.google.com/maps?q=S%C3%A3o+Paulo+SP&output=embed"
+  }
+}
